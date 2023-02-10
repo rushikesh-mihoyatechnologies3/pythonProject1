@@ -1,5 +1,10 @@
 ########## interview programs ##################
 
+
+
+
+
+
 # import math
 # 1. Write a program to swap two numbers.
 
@@ -366,7 +371,7 @@
 
 # 18. How to find the smallest and largest numbers on the list?
 
-alist = [2, 15, 14, 46, 84, 75, 64, 2, 1, 10, 14, 2, 10, 21, 14]
+# alist = [2, 15, 14, 46, 84, 75, 64, 2, 1, 10, 14, 2, 10, 21, 14]
 
 # def MaxMInfunction(a:list):
 
@@ -725,3 +730,5 @@ For example, 3553, 12321, etc'''
 #     print('yes')
 # else:
 #     print("not")
+
+print('hello')
